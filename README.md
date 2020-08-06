@@ -1,5 +1,5 @@
 # Responsive Portfolio
 
-This is an update of a previous assignment which has been modified to make it responsive.
+This is an update of my original portfolio.  This design is responsive, whereas the original version was not.
 
 * [Responsive Portfolio](https://slimzim.github.io/Responsive-Portfolio/)
